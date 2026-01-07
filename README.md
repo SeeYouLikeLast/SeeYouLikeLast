@@ -1,15 +1,25 @@
-# Hi 👋, I'm Yixun Liu
+# 👋 你好，我是 Yixun Liu (SeeYouLikeLast)
 
-- 🌱 I'm currently learning **C/C++   Python**
+### 🚀 关于我 (About Me)
+- 🏫 **教育背景**：目前就读于 **西安电子科技大学 (Xidian University)**
+- 💻 **技术栈**：主攻 **后端开发**，对分布式系统和高性能架构感兴趣
+- 🎯 **当前目标**：深耕 C++/Java 后端生态，同时探索人工智能在自动化领域的应用
+- ✍️ **个人博客**：我在这里记录我的学习笔记 👉 [My_Blog](https://SeeYouLikeLast.github.io/)
 
-- 📫 How to reach me **swust_liuyixun@163.com**
+---
 
-- ⚡ Fun fact **I am better!**
+### 🛠 技能清单 (Tech Stack)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SeeYouLikeLast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SeeYouLikeLast" height="30" width="40" /></a>
-</p>
+| 类别 | 技术图标 |
+| :--- | :--- |
+| **编程语言** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **框架/工具** | ![Workflow](https://img.shields.io/badge/-Sogou%20Workflow-FF6600?style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **其他** | ![Algorithms](https://img.shields.io/badge/-车联网一体化-lightgrey) ![Numerical Analysis](https://img.shields.io/badge/-AI-blue) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a></p>
+---
+
+### 📫 联系我 (Contact Me)
+- **Email**: [xidian_yixunliu@163.com](mailto:xidian_yixunliu@163.com)
+- **Blog**: [https://SeeYouLikeLast.github.io/](https://SeeYouLikeLast.github.io/)
+
+<p align="right">来自 SeeYouLikeLast 的 💖</p>
